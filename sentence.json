@@ -1,1 +1,10 @@
-
+{
+  "sentence": "She runs every morning.",
+  "wordIndexes": [0, 1, 2, 3],
+  "structure": [
+    { "index": 0, "role": "subject" },
+    { "index": 1, "role": "verb" },
+    { "index": 2, "role": "modifier" },
+    { "index": 3, "role": "object" }
+  ]
+}
