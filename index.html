@@ -1,16 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Grammar Structure Demo</title>
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive English Learning</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>Grammar Structure Demo</h1>
-  <div id="sentence"></div>
-  <div id="tooltip" class="hidden"></div>
+    <div class="article-container">
+        <h1 id="chapter-title"></h1>
+        <div id="article-content">
+            </div>
 
-  <script src="script.js"></script>
+        <div class="chapter-nav">
+            <button id="prev-chapter">Previous Chapter</button>
+            <span id="chapter-indicator">Loading...</span>
+            <button id="next-chapter">Next Chapter</button>
+        </div>
+
+        <div class="footer-nav">
+            <button id="back-to-top">Back to Top</button>
+            <button id="back-to-home">Back to Home</button>
+        </div>
+
+        <div class="word-frequency-panel">
+            <h2 id="word-freq-toggle">Word Frequency <span class="toggle-icon">+</span></h2>
+            <div id="word-freq-content" class="collapsed">
+                </div>
+        </div>
+    </div>
+
+    <div id="definition-popup" class="definition-popup">
+        <span class="popup-close">&times;</span>
+        <div class="popup-content"></div>
+    </div>
+    <div id="grammar-tooltip" class="grammar-tooltip">
+        <div class="tooltip-content"></div>
+    </div>
+
+    <script type="module" src="js/app.js"></script>
 </body>
 </html>
