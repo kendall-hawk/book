@@ -1,30 +1,47 @@
 {
-  "0": {
-    "text": "She",
-    "pos": "pronoun",
-    "definition": "used to refer to a woman or girl",
-    "imageSense": "a girl standing at the starting line",
-    "example": "She is my sister."
+  "Learning_VBG": {
+    "partOfSpeech": "Verb (gerund)",
+    "definition": "The act of gaining knowledge or skills.",
+    "image": "A person studying with books and a laptop.",
+    "example": "Learning new things keeps your brain active."
   },
-  "1": {
-    "text": "runs",
-    "pos": "verb",
-    "definition": "to move quickly on foot",
-    "imageSense": "a person jogging in the park",
-    "example": "He runs every morning."
+  "new_JJ": {
+    "partOfSpeech": "Adjective",
+    "definition": "Not existing before; recently created or discovered.",
+    "image": "A shiny, unopened box.",
+    "example": "She bought a new car last week."
   },
-  "2": {
-    "text": "every",
-    "pos": "determiner",
-    "definition": "each one of a group",
-    "imageSense": "a calendar with repeated marks",
-    "example": "I go there every day."
+  "language_NN": {
+    "partOfSpeech": "Noun",
+    "definition": "A system of communication used by a community or country.",
+    "image": "Speech bubbles in different languages.",
+    "example": "French is a beautiful language."
   },
-  "3": {
-    "text": "morning",
-    "pos": "noun",
-    "definition": "the early part of the day",
-    "imageSense": "a sunrise over houses",
-    "example": "Morning is my favorite time."
-  }
-}
+  "challenging_JJ": {
+    "partOfSpeech": "Adjective",
+    "definition": "Demanding effort or skill; difficult in a stimulating way.",
+    "image": "A person climbing a steep hill.",
+    "example": "The exam was very challenging."
+  },
+  "rewarding_JJ": {
+    "partOfSpeech": "Adjective",
+    "definition": "Providing satisfaction; worth the effort.",
+    "image": "A trophy or a proud smile.",
+    "example": "Helping others is a rewarding experience."
+  },
+  "journey_NN": {
+    "partOfSpeech": "Noun",
+    "definition": "An act of traveling from one place to another; often used metaphorically.",
+    "image": "A long road leading into the horizon.",
+    "example": "Learning English is a long journey."
+  },
+  "opens_VBZ": {
+    "partOfSpeech": "Verb",
+    "definition": "To make something accessible or available.",
+    "image": "An open door with light shining through.",
+    "example": "Education opens minds."
+  },
+  "doors_NNS": {
+    "partOfSpeech": "Noun (plural)",
+    "definition": "Metaphorical opportunities or possibilities.",
+   
