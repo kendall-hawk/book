@@ -1,1 +1,45 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  line-height: 1.6;
+}
 
+#sentence {
+  margin-top: 20px;
+  font-size: 1.5em;
+}
+
+.word {
+  cursor: pointer;
+  padding: 2px 4px;
+  margin: 2px;
+  border-bottom: 2px dashed transparent;
+}
+
+.subject {
+  border-color: blue;
+}
+
+.verb {
+  border-color: green;
+}
+
+.object {
+  border-color: red;
+}
+
+.modifier {
+  border-color: orange;
+}
+
+#tooltip {
+  margin-top: 30px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  background: #f0f0f0;
+  width: 400px;
+}
+
+.hidden {
+  display: none;
+}
