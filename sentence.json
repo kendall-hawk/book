@@ -1,10 +1,30 @@
+
 {
-  "sentence": "She runs every morning.",
-  "wordIndexes": [0, 1, 2, 3],
-  "structure": [
-    { "index": 0, "role": "subject" },
-    { "index": 1, "role": "verb" },
-    { "index": 2, "role": "modifier" },
-    { "index": 3, "role": "object" }
+  "sentences": [
+    {
+      "text": "Learning a new language is a challenging yet rewarding journey that opens doors to different cultures and perspectives.",
+      "words": [
+        {"text": "Learning", "pos": "VBG", "role": "Subject", "definition": "The process of acquiring knowledge or skills."},
+        {"text": "a", "pos": "DT", "role": "Determiner"},
+        {"text": "new", "pos": "JJ", "role": "Modifier", "definition": "Not existing before; recently made, discovered, or experienced."},
+        {"text": "language", "pos": "NN", "role": "Object", "definition": "A system of communication used by a particular community or country."},
+        {"text": "is", "pos": "VBZ", "role": "Verb"},
+        {"text": "a", "pos": "DT", "role": "Determiner"},
+        {"text": "challenging", "pos": "JJ", "role": "Modifier", "definition": "Testing one's abilities; demanding."},
+        {"text": "yet", "pos": "CC", "role": "Conjunction"},
+        {"text": "rewarding", "pos": "JJ", "role": "Modifier", "definition": "Providing satisfaction; worth the effort."},
+        {"text": "journey", "pos": "NN", "role": "Subject Complement", "definition": "An act of traveling from one place to another."},
+        {"text": "that", "pos": "WDT", "role": "Relative Pronoun"},
+        {"text": "opens", "pos": "VBZ", "role": "Verb"},
+        {"text": "doors", "pos": "NNS", "role": "Object", "definition": "Metaphorical opportunities or possibilities."},
+        {"text": "to", "pos": "TO", "role": "Preposition"},
+        {"text": "different", "pos": "JJ", "role": "Modifier", "definition": "Not the same as another or each other."},
+        {"text": "cultures", "pos": "NNS", "role": "Object", "definition": "Customs, arts, social institutions of a group of people."},
+        {"text": "and", "pos": "CC", "role": "Conjunction"},
+        {"text": "perspectives", "pos": "NNS", "role": "Object", "definition": "Points of view or attitudes towards something."},
+        {"text": ".", "pos": ".", "role": "Punctuation"}
+      ]
+    }
   ]
+
 }
