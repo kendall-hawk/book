@@ -1,1 +1,30 @@
-
+{
+  "0": {
+    "text": "She",
+    "pos": "pronoun",
+    "definition": "used to refer to a woman or girl",
+    "imageSense": "a girl standing at the starting line",
+    "example": "She is my sister."
+  },
+  "1": {
+    "text": "runs",
+    "pos": "verb",
+    "definition": "to move quickly on foot",
+    "imageSense": "a person jogging in the park",
+    "example": "He runs every morning."
+  },
+  "2": {
+    "text": "every",
+    "pos": "determiner",
+    "definition": "each one of a group",
+    "imageSense": "a calendar with repeated marks",
+    "example": "I go there every day."
+  },
+  "3": {
+    "text": "morning",
+    "pos": "noun",
+    "definition": "the early part of the day",
+    "imageSense": "a sunrise over houses",
+    "example": "Morning is my favorite time."
+  }
+}
