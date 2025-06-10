@@ -1,1 +1,18 @@
+[
+  {
+    "id": "chap-01",
+    "title": "Introduction to Interactive Article",
+    "filePath": "data/chapter_01.json"
+  },
+  {
+    "id": "chap-02",
+    "title": "Vocabulary Breakdown",
+    "filePath": "data/chapter_02.json"
+  },
+  {
+    "id": "chap-03",
+    "title": "The Quick Brown Fox Story",
+    "filePath": "data/chapter_03.json"
+  }
+]
 
