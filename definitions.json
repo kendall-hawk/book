@@ -44,4 +44,25 @@
   "doors_NNS": {
     "partOfSpeech": "Noun (plural)",
     "definition": "Metaphorical opportunities or possibilities.",
-   
+    "image": "Several doors labeled 'Career', 'Travel', 'Growth'.",
+    "example": "Learning opens many doors."
+  },
+  "different_JJ": {
+    "partOfSpeech": "Adjective",
+    "definition": "Not the same as another or others.",
+    "image": "People from various countries standing together.",
+    "example": "He has friends from different cultures."
+  },
+  "cultures_NNS": {
+    "partOfSpeech": "Noun (plural)",
+    "definition": "The customs, beliefs, and way of life of a particular group of people.",
+    "image": "Diverse cultural festivals and dress.",
+    "example": "She enjoys learning about other cultures."
+  },
+  "perspectives_NNS": {
+    "partOfSpeech": "Noun (plural)",
+    "definition": "A particular way of thinking about something.",
+    "image": "People looking at a cube from different angles.",
+    "example": "Talking with others gives new perspectives."
+  }
+}
