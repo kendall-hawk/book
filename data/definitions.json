@@ -6,22 +6,6 @@
     "imageSense": "A bright lightbulb appearing above a creative mind, symbolizing a new idea or product coming into existence.",
     "example": "The internet was a truly groundbreaking invention that changed how people connect.",
     "category": "Creation/Innovation"
-  },
-  "flavour-noun": {
-    "title": "flavour",
-    "pos": "noun",
-    "definition": "the distinctive taste of a food or drink.",
-    "imageSense": "A swirl of vibrant colors and aromas, representing diverse tastes.",
-    "example": "Indian cuisine is known for its rich and complex flavours.",
-    "category": "Food/Taste"
-  },
-  "exotic-adjective": {
-    "title": "exotic",
-    "pos": "adjective",
-    "definition": "unusual and exciting because of coming from far away.",
-    "imageSense": "A vibrant, colourful bird from a tropical rainforest, or a unique, never-before-seen flower.",
-    "example": "They visited an exotic island with rare species of plants and animals.",
-    "category": "Description/Origin"
   }
 
 }
