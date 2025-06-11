@@ -28,11 +28,6 @@
         { "text": "pasta", "role": "Object", "definitionKey": "pasta-noun" },
         { "text": "?", "role": "Punctuation", "definitionKey": null }
       ],
-      "media": {
-        "type": "audio",
-        "src": "media/s-01-01-audio.mp3",
-        "description": "Listen to the introduction."
-      }
     },
     {
       "id": "s-01-02",
